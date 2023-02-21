@@ -3,6 +3,9 @@ Blockies
 
 A tiny library for generating identicons for Ethereum addresses or from strings.
 
+![Sample mushi images](sample.png)
+
+
 Use
 ---
 
